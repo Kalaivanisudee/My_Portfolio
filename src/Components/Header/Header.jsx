@@ -1,6 +1,8 @@
 import React from 'react'
 import { HeaderSocials } from './HeaderSocials';
 import './Header.css';
+import { CTA } from './CTA';
+
 
 export const Header = () => {
   return (
@@ -10,7 +12,7 @@ export const Header = () => {
         <h5>Hi I'm</h5>
         <h1>KALAIVANI.S</h1>
         <h5 className="text-light">A New MERN Developer Excited To Kickstart My Journey In Web Development</h5>
-        {/* <CTA />  for REsume */}
+        <CTA />
         <a href="#contact" className="scroll__down">
           Scroll Down
         </a>

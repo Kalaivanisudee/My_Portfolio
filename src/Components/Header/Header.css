@@ -10,12 +10,12 @@ header {
     position: relative;
   }
   
-  /* .cta {
+  .cta {
     display: flex;
     justify-content: center;
     gap: 1.2rem;
     margin-top: 2.5rem;
-  } */
+  }
   
   .header__socials {
     display: flex;
