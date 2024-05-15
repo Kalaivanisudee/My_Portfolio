@@ -48,11 +48,7 @@ export const Experiance = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Netlify</h4>
               </article>
-              <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>AWS</h4>
-            </article>
-          </div>
+              </div>
         </div>
       </div>
     </section>
