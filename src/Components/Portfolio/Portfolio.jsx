@@ -4,6 +4,9 @@ import IMG1 from "../../assets/weather.jpg";
 import IMG2 from "../../assets/Qrcode.png";
 import IMG3 from "../../assets/BMI.jpg";
 import IMG4 from "../../assets/zenticket.png";
+import IMG5 from "../../assets/Book.jpg";
+import IMG6 from "../../assets/Todo.jpg";
+import IMG7 from "../../assets/news.jpg";
 
 export const Portfolio = () => {
     const soloProjects = [
@@ -46,6 +49,36 @@ export const Portfolio = () => {
             technologies: "HTML | CSS | JavaScript | React | Express | MongoDb ",
             link: "https://main--gorgeous-puffpuff-19ce92.netlify.app/",
             github: "	https://github.com/Kalaivanisudee/capstone-FE",
+          },
+          {
+            id: 4,
+            title: "Book Store App",
+            img: IMG5,
+            description:
+              "A user-friendly app for discovering, purchasing, and reviewing books, with personalized recommendations and community-driven reviews..",
+            technologies: "HTML | CSS | JavaScript | React | Express | MongoDb ",
+            link: "https://helpful-zuccutto-d6a94f.netlify.app/",
+            github: "https://github.com/Kalaivanisudee/Book_Store_FE",
+          },
+          {
+            id: 5,
+            title: "Todo List App",
+            img: IMG6,
+            description:
+              "An easy-to-use app for managing tasks, setting reminders, and organizing to-do lists with sharing options...",
+            technologies: "HTML | CSS | JavaScript | React | Express | MongoDb ",
+            link: "https://aesthetic-torrone-9b27f9.netlify.app",
+            github: "https://github.com/Kalaivanisudee/Todo_FE",
+          },
+          {
+            id: 6,
+            title: "News Media App",
+            img: IMG7,
+            description:
+              "A comprehensive app for staying updated with the latest news, offering personalized content and real-time notifications. Features include multimedia articles, live streams, and social sharing....",
+            technologies: "HTML | CSS | JavaScript | React | Express | MongoDb ",
+            link: "https://musical-lamington-9f6a62.netlify.app/",
+            github: "https://github.com/Kalaivanisudee/News_Media_FE",
           },
     ]
     return (
