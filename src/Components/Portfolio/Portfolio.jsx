@@ -42,7 +42,7 @@ export const Portfolio = () => {
             github: "https://github.com/Kalaivanisudee/Projects/tree/main/React/BMI%20Calculator",
           },
           {
-            id: 3,
+            id: 4,
             title: "Zen Class Ticketing system for query resolving",
             img: IMG4,
             description:
@@ -53,7 +53,7 @@ export const Portfolio = () => {
           },
          
           {
-            id: 4,
+            id: 5,
             title: "Todo List App",
             img: IMG6,
             description:
@@ -63,7 +63,7 @@ export const Portfolio = () => {
             github: "https://github.com/Kalaivanisudee/Todo_FE",
           },
           {
-            id: 5,
+            id: 6,
             title: "News Media App",
             img: IMG7,
             description:
@@ -73,7 +73,7 @@ export const Portfolio = () => {
             github: "https://github.com/Kalaivanisudee/News_Media_FE",
           },
           {
-            id: 6,
+            id: 7,
             title: "CRUD App",
             img: IMG8,
             description:
@@ -83,14 +83,14 @@ export const Portfolio = () => {
             github: "https://github.com/Kalaivanisudee/CRUD_App_Client",
           },
           {
-            id: 7,
+            id: 8,
             title: "User Manangement App",
             img: IMG9,
             description:
               "To efficiently manage user accounts and access control.....",
             technologies: " React | Express | Node | MongoDB  ",
             link: "https://user-management-app-mern.netlify.app/",
-            github: "",
+            github: "https://github.com/Kalaivanisudee/User_Management_Client",
           },
     ]
     return (
